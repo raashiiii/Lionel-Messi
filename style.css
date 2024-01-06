@@ -1,0 +1,42 @@
+body{
+  margin:0 4%;
+  background-image:linear-gradient(to bottom,lightblue,white,lightblue);}
+  .mbr{
+  border:1px solid black;
+  border-radius:40px;
+  width:50%;
+  margin:30px 28%;
+  background-image:linear-gradient(to right, lightblue, white 40%,lightblue);
+  }
+   h1{
+  font-family:times new roman;
+  color:rgb(230, 0, 0);
+  text-align:center;
+  }
+   h4{
+  font-family:times new roman;
+   text-align:center;
+  }
+  img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+  }
+    .mbr2{
+  border:2px solid blue;
+  border-radius:3px;
+  padding:30px;
+  margin:10px;
+  position:relative;
+  }
+ 
+    table th,td {
+         border:1px solid rgb(3, 3, 3);
+     border-collapse: collapse;
+     width:100%;
+     }
+     th,td{
+     padding:20px;
+     }
+      
